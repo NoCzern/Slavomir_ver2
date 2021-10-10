@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/zajazdy/407_Ryga_zajazd_miejski3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
